@@ -4,8 +4,9 @@ bin/
 
 obj/
 
-#Cuqluier archivo con extension log
+#Cualquier archivo con extension log
 *.log
 
 #archivos .tmp en cualquier subdirectorio
 **/*.tmp
+**/*.env
