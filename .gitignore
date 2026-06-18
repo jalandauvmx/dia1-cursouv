@@ -10,3 +10,8 @@ obj/
 #archivos .tmp en cualquier subdirectorio
 **/*.tmp
 **/*.env
+
+notaspersonales.txt
+secrest*.txt
+#Ignorar archivos de configuración de Visual Studio Code
+.vscode/
